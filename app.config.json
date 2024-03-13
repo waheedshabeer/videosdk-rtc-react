@@ -1,0 +1,10 @@
+{
+  "apps": [
+    {
+      "name": "Video SDK",
+      "script": "npx",
+      "interpreter": "none",
+      "args": "serve -p 3001 -T"
+    }
+  ]
+}
